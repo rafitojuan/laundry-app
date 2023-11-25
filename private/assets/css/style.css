@@ -1,0 +1,13 @@
+.bg-login {
+  background-image: url(../img/bg-image.jpg);
+  background-size: cover;
+}
+
+.carda {
+  transition: all 0.5s ease-in-out;
+  color: black;
+}
+
+.carda:hover {
+  box-shadow: 0 16px 24px 0 rgba(0, 0, 0, 0.2);
+}
